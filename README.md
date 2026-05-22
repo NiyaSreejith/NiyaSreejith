@@ -40,7 +40,7 @@ Right now, alongside full-stack development, I am actively sharpening my core co
 
 Let's build something interesting together or chat about web development!
 
-- **LinkedIn:** [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/niya-sreejith-193b8a369/)
-- **Email:** [your.email@example.com](mailto:niyasreejith06@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/niya-sreejith-193b8a369/)
+- **Email:** (mailto:niyasreejith06@gmail.com)
 
 ---
